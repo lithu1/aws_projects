@@ -1,2 +1,0 @@
-
-"delete demo-ecs-cluster
